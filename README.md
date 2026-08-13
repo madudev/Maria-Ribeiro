@@ -1,19 +1,29 @@
-# Maria-Ribeiro
-# 🎮 Olá, eu sou Maria Ribeiro! 
-### Programadora Full Stack | Aspirante a Game Dev | C# | Unity
+# Olá, sou a Maria Eduarda Ribeiro 
 
-📚 **Graduada em Tecnologia em Análise de Dados** pelo Claretiano Centro Universitário.  
-💻 **Programadora Full Stack** com experiência em C#, SQL e desenvolvimento web.  
-🎮 **Aspirante a Game Dev**, atualmente desenvolvendo um **RPG 2D em pixel art** usando Unity.  
+### Analista de Dados | People Analytics & Infraestrutura de HCM
 
-## 🚀 O que estou fazendo agora:
-- 🎮 Criando um **RPG 2D** com Unity e C#  
-- 📊 Explorando **Data Science e Análise de Dados**  
-- 🇫🇷 Aprendendo **francês** para expandir horizontes  
+Especialista em relatórios paginados (pixel-perfect) com experiência em análise de dados aplicada a ambientes corporativos de RH, folha de pagamento e obrigações legais. Atuo com Birt e JasperReports no desenvolvimento de soluções de Business Intelligence integradas ao HCM, apoiando iniciativas de People Analytics. Meu foco é transformar dados de pessoas em insights estratégicos, automatizando processos e fortalecendo a tomada de decisão baseada em evidências.
+---
 
-## 🔧 Tecnologias & Ferramentas:
-- 💻 **Linguagens**: C#, JavaScript, SQL, Python  
-- 🎮 **Game Engine**: Unity  
-- 🌐 **Desenvolvimento Web**: .NET, HTML, PHP, JavaScript  
-- 🎨 **Arte & Animação**: Aseprite, Photoshop  
-- 🔍 **Versionamento**: Git, GitHub  
+### 🚀 O que estou fazendo agora:
+* 📊 Aprofundando em Data Science & Analytics aplicada a negócios.
+* ⚙️ Desenvolvendo pipelines de dados e rotinas de ingestão com **Python**.
+* 📈 Criando relatórios corporativos e soluções de BI integradas a sistemas HCM (**JasperReports** / **Birt**).
+
+---
+
+### 💻 Stack Tecnológica & Ferramentas:
+
+* **Análise de Dados & Linguagens:** Python (Pandas, automação de dados), SQL Avançado.
+* **Relatórios & BI:** JasperReports, Birt, Metabase, Power BI.
+* **Sistemas & Domínio:** HCM (Human Capital Management), Folha de Pagamento, Indicadores de RH (People Analytics).
+* **Engenharia & Versionamento:** Git, GitHub, Bancos de Dados Relacionais.
+
+---
+
+### 📊 Principais Focos Profissionais:
+* **People Analytics:** Modelagem de indicadores críticos (Turnover, Absenteísmo, Custo de Rotatividade e Dimensionamento de HC).
+* **Performance de Banco de Dados:** Otimização de consultas SQL estruturadas para grandes volumes de dados corporativos.
+* **Automação:** Redução de esforço operacional manual através de pipelines e scripts de tratamento de dados.
+
+📫 **Contato:** [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/maria-eduarda-ribeiro/) | ✉️ eduarda.m.ribeiro95@gmail.com
